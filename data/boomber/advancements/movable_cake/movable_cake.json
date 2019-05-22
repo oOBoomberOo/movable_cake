@@ -1,0 +1,18 @@
+{
+	"display": {
+		"title": "Movable Cake v1.0.0",
+		"description": "Undo your mistake",
+		"icon": {
+			"item": "minecraft:cake"
+		},
+		"announce_to_chat": false,
+		"show_toast": false
+	},
+	"parent": "boomber:boomber",
+	"criteria": {
+		"trigger": {
+			"trigger": "minecraft:tick"
+		}
+	
+	}
+}
