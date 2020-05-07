@@ -26,7 +26,7 @@
 									"condition": "minecraft:block_state_property",
 									"block": "minecraft:cake",
 									"properties": {
-										"bites": 0
+										"bites": "0"
 									}
 								}
 							],
@@ -51,7 +51,7 @@
 									"condition": "minecraft:block_state_property",
 									"block": "minecraft:cake",
 									"properties": {
-										"bites": 1
+										"bites": "1"
 									}
 								}
 							],
@@ -76,7 +76,7 @@
 									"condition": "minecraft:block_state_property",
 									"block": "minecraft:cake",
 									"properties": {
-										"bites": 2
+										"bites": "2"
 									}
 								}
 							],
@@ -101,7 +101,7 @@
 									"condition": "minecraft:block_state_property",
 									"block": "minecraft:cake",
 									"properties": {
-										"bites": 3
+										"bites": "3"
 									}
 								}
 							],
@@ -126,7 +126,7 @@
 									"condition": "minecraft:block_state_property",
 									"block": "minecraft:cake",
 									"properties": {
-										"bites": 4
+										"bites": "4"
 									}
 								}
 							],
@@ -151,7 +151,7 @@
 									"condition": "minecraft:block_state_property",
 									"block": "minecraft:cake",
 									"properties": {
-										"bites": 5
+										"bites": "5"
 									}
 								}
 							],
@@ -176,7 +176,7 @@
 									"condition": "minecraft:block_state_property",
 									"block": "minecraft:cake",
 									"properties": {
-										"bites": 6
+										"bites": "6"
 									}
 								}
 							],

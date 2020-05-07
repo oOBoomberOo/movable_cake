@@ -1,18 +1,18 @@
 {
 	"display": {
-		"title": "Movable Cake v1.0.0",
-		"description": "Undo your mistake",
+		"title": "Boomber",
+		"description": "",
 		"icon": {
-			"item": "minecraft:cake"
-		},
+			"item": "minecraft:player_head",
+			"nbt": "{SkullOwner: 'Boomber'}"
+	 	},
 		"announce_to_chat": false,
 		"show_toast": false
 	},
-	"parent": "boomber:boomber",
+	"parent": "global:root",
 	"criteria": {
 		"trigger": {
 			"trigger": "minecraft:tick"
 		}
-	
 	}
 }
